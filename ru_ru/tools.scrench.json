@@ -1,0 +1,39 @@
+[
+	"Я создал полезный мультиинструмент. С помощью него я могу поворачивать и модифицировать машины.",
+	
+	{
+		"type": "crafting",
+		"slots": {
+			"1": "OreDict:ingotIron",
+			"2": {},
+			"3": "OreDict:ingotIron",
+			"4": {},
+			"5": {"name":"fp:spaceship", "meta":"<spaceship.CompositeMetall>"},
+			"6": {},
+			"7": {},
+			"8": {"name":"fp:spaceship", "meta":"<spaceship.IronStick>"},
+			"9": {},
+			"out": {"name":"fp:scrench"}
+		}
+	},
+	"Смена режима: §lПКМ \"В воздух\"§r",
+	
+	"Режим-Поворота:",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/items/tool_sub.png"
+	},
+	"§lПКМ§r На блок чтобы повернуть.",
+	
+	"Режим-Модфикации:",
+	{
+		"type":"image",
+		"width":32,
+		"height":32,
+		"resource":"fp:textures/items/tool.png"
+	},
+	"§lШифт + ПКМ§r На машину для модификации.",
+	"Заметка: Первая модифицируемая машина будет доступна позднее!"
+]

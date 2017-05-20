@@ -1,0 +1,8 @@
+[
+    "It's bothersome using flash drives to take support points from machines and then bring them somewhere else. Therefore I developed a chipset that enables a machine to transfer stored points to nearby receivers by itself.",
+    "Assembly:",
+	{"link":"fp:lang/part/as_chip.support.json"},
+    "Качество этого чипа не влияет на его силу!",
+    "Информация: любой возможный отличающий эффект упомянут в соответствующей машине.",
+    "Совет: Для получения главной информации смотрите \"Логический чип\"."
+]
