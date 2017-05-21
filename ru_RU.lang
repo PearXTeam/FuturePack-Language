@@ -505,7 +505,7 @@ item.AI_Flash_Speicher_3.name=Простой кристальный накопи
 item.AI_Flash_Speicher_4.name=Пустой изотопный накопитель
 item.AI_Flash_Speicher_5.name=Пустой кубитовый накопитель
 
-item.entityegger.name=Вылупливатель
+item.entityegger.name=Инкубатор
 item.spawnerchest.name=Сундук для спавнера
 item.spawnerchest_full.name=Заполненный сундук для спавнера
 item.entityegger4.name=Дрон-шахтёр
